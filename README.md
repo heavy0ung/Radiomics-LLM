@@ -2,7 +2,7 @@
 
 #### Overview
 
-![fig1](/asset/fig1.png)
+![fig1](/asset/fig2.png)
 
 
 
