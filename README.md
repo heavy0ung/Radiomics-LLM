@@ -6,18 +6,7 @@
 
 
 
-### Dataset
-
-We used VinDr-Mammo, INbreast dataset for radiomics analysis.
-
-
-### How to use
-
-1. 
-
-2. 
-
-3. 
+### Will be updated soon.
 
    
 
