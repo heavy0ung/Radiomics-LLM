@@ -20,7 +20,7 @@ If you find this repo useful for your research, please consider citing our paper
   author={},
   booktitle={},
   pages={},
-  year={2023},
+  year={2024},
   organization={}
 }
 ```
